@@ -12,7 +12,7 @@ This project contains the following three documents:
 
 # Authors
 
-Vincent Chen
+Vincent Chen, 
 Carla Mariana Fera
 
 
